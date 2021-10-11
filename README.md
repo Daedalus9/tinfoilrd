@@ -1,4 +1,4 @@
-# Auto update json for tinfoil's shop
+# Auto update JSON for tinfoil's shop
 Add this for auto update available shops on tinfoil, without manually adding them
 
 ## How to use
