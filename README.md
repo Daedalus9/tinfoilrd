@@ -10,7 +10,7 @@ Add this for auto update available shops on tinfoil, without manually adding the
 ```
 Protocol: https
 Host: raw.githubusercontent.com
-Path: DarkHero94/tinfoilrd/master/tinfoilshop.json
+Path: Daedalus9/tinfoilrd/master/tinfoilshop.json
 Titles: shop
 ```
 
