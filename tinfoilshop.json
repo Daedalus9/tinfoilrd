@@ -1,4 +1,4 @@
 {
-    "directories": ["https://quotanx.in", "https://redump.cf"],
+    "locations": ["https://quotanx.in", "https://redump.cf", "https://nekoshop.cf", "https://titz.cf", "https://stealthshop.cf"],
     "success": "Daedalus9's json auto update loaded!"
 }
